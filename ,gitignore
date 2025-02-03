@@ -21,5 +21,5 @@ media/
 # VS Code settings
 .vscode/
 
-# Variables de entorno
-.env/
+# Secret
+.env
